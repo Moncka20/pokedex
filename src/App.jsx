@@ -38,13 +38,8 @@ export default function App() {
     <div className="app-shell">
       <header className="hero">
         <div className="hero__content">
-          <div className="brand-mark" aria-hidden="true">
-            <span />
-          </div>
           <h1>Pokédex</h1>
         </div>
-        <div className="hero__orb hero__orb--one" aria-hidden="true" />
-        <div className="hero__orb hero__orb--two" aria-hidden="true" />
       </header>
 
       <main className="content">
