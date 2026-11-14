@@ -4,7 +4,7 @@ import LoadingGrid from './components/LoadingGrid';
 import PokemonCard from './components/PokemonCard';
 import SearchBar from './components/SearchBar';
 
-const PAGE_SIZE = 100;
+const PAGE_SIZE = 2000;
 
 export default function App() {
   const [pokemonList, setPokemonList] = useState([]);
